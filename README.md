@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is inspired by stratascratch.com, and I will be looking for insights from failed orders in the Gett app. I use Python to prepare the data and Tableau to visualize it.
+This project is inspired by stratascratch.com, here I will be looking for insights from failed orders in the Gett app. I use Python to prepare the data and Tableau to visualize it.
 
 ## Scenario
 
@@ -23,9 +23,9 @@ The data set `data_orders` is stored in CSV format. The columns in the `data_ord
 - `is_driver assigned key` = whether or not a driver has been assigned 
 - `cancellation time in seconds` = the number of seconds that passed before cancellation
 
-## Source Code
+## Preprocessing Code
 
-You can see my code for preparing the data in [here](https://github.com/malikkarim14/Reddit-Scraping/blob/9f8e159faf693c05f8dcc5a3aa1b629705e82bf3/Scrape_Reddit.ipynb)
+You can see my code for preparing the data in [here](https://github.com/malikkarim14/Failed-Orders-at-Gett/blob/cd3988e7797d20b23962b55d62697682ad8710c3/Preprocessing_Gett_Project.ipynb)
 
 ## Result
 
