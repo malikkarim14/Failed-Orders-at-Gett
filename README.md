@@ -25,7 +25,7 @@ The data set `data_orders` is stored in CSV format. The columns in the `data_ord
 
 ## Preprocessing Code
 
-You can see my code for preparing the data in [here](https://github.com/malikkarim14/Failed-Orders-at-Gett/blob/cd3988e7797d20b23962b55d62697682ad8710c3/Preprocessing_Gett_Project.ipynb)
+You can see my code for preparing the data in [here](https://github.com/malikkarim14/Failed-Orders-at-Gett/blob/c2025505bb01268a6d126353fac6adce4ef71538/Preprocessing_Gett_Project.ipynb)
 
 ## Result
 
